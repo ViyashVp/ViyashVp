@@ -1,25 +1,24 @@
-<h1 align="center">👋 Hi, I'm Viyash</h1>
+<h1 align="center">👋 Hi, I'm Viyash</h1> 
 <h3 align="center">🚀 AI Engineer | LLM Developer | Smart Systems Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;LLM+%7C+NLP+Specialist;RAG+Systems+Builder;Hackathon+Winner+🏆;Smart+City+AI+Developer;Future+Tech+Leader+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;LLM+%7C+NLP+Specialist;RAG+Systems+Builder;Smart+Systems+Developer;Future+Tech+Innovator+🚀" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackdaisy2026-commits&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ViyashVp&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-🚀 Building *real-world AI systems* that solve impactful problems  
-🤖 Specialized in *LLMs, NLP, and RAG architectures*  
-🏆 Hackathon Winner | *TN-iMPACT Top 5 Finalist*  
-☁️ Working with *AWS & Google Cloud*  
-💡 Founder @ *Axentus Software & Services*  
+🚀 Passionate about building **real-world AI solutions**  
+🤖 Focused on **LLMs, NLP, and intelligent systems**  
+☁️ Exploring **Cloud (AWS & GCP)**  
+💡 Interested in **scalable AI & smart technologies**  
 
 ---
 
@@ -39,63 +38,35 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Projects  
 
-### 🤖 AI Chatbot (LLM + NLP)  
-✔ Automated hostel management system  
-✔ Real-time intelligent response system  
-✔ Cloud deployment  
-
----
-
-### 🌾 AgriTrace TN  
-✔ Blockchain-based agricultural supply chain  
-✔ QR traceability system  
-🏆 *4th Place — TN-iMPACT (1000+ participants, 410+ teams)*  
+### 🤖 AI Chatbot  
+✔ LLM-powered intelligent chatbot  
+✔ Real-time response system  
+✔ Practical AI deployment  
 
 ---
 
-### 🏙️ Smart Infrastructure System  
-✔ AI + IoT monitoring  
-✔ Predictive alert system  
-✔ Real-time analytics dashboard  
-
----
-
-### 🚦 Signet  
-✔ Smart traffic system using ML + IoT  
-✔ Emergency vehicle prioritization  
+### 🌐 Smart Systems Projects  
+✔ AI + IoT based solutions  
+✔ Automation & real-time analytics  
+✔ Scalable architecture  
 
 ---
 
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackdaisy2026-commits&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackdaisy2026-commits&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViyashVp&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViyashVp&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blackdaisy2026-commits&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
 ---
 
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackdaisy2026-commits&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blackdaisy2026-commits/blackdaisy2026-commits/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViyashVp&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -103,32 +74,20 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dharshan-hariharan-a51277290">
+<a href="https://www.linkedin.com/in/viyash-m-437aa4295/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://dharshan-hariharan.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
-</a>
-
-<a href="mailto:dharshanhariharan2468@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<a href="https://github.com/ViyashVp">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 </p>
 
 ---
 
-## 🧠 Quote of the Day  
+## 💡 Fun Fact  
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Fun Fact  
-
-💡 I don’t just write code — I build *intelligent systems that think*
+💡 I don’t just write code — I build **intelligent systems that solve problems**
 
 ---
 
